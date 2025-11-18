@@ -30,7 +30,7 @@ int main()
         }
     }
     if (d >= 1 && d <= max)
-        printf("Valid date");
+        printf("Valid");
     else
         printf("Invalid date");
     return 0;
